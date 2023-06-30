@@ -35,8 +35,10 @@
 <img src="https://2246250622.github.io/github-stats.github.io/generated/overview.svg#gh-dark-mode-only" />
 <img src="https://2246250622.github.io/github-stats.github.io/generated/languages.svg#gh-dark-mode-only" />
 </a>
-<!-- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=2246250622&layout=compact&langs_count=10&theme=react) -->
-<!-- ![Wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=2246250622&theme=react) -->
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=2246250622&layout=compact&langs_count=10&theme=react)]
+
+[![Wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=2246250622&theme=react)]
 
 
 
