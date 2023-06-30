@@ -3,8 +3,7 @@
 </div>
 
 <h1 align="center">Hi 👋, I'm Cheuk Shu Ho</h1>
-<h3 align="center">A passionate developer from Hong Kong</h3>
-<div id="header" align="center"><img align="right" alt="Coding" width="400" src="https://cdn.discordapp.com/attachments/818449335024484382/1124291117874155602/023AXM3Ql4ljGw6-b1EZC4ogv7vPPwSsNQvdrtTa9IU.gif"/></div>
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=15&pause=1000&multiline=true&width=435&lines=Hello+this+is++Cheuk+Shu+Ho%2C+Welcome+to+my+Github+page;I+am+a+passionate+developer+from+Hong+Kong)](https://git.io/typing-svg)
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=2246250622&label=Profile%20views&color=0e75b6&style=flat" alt="2246250622" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=2246250622" alt="2246250622" /></a> </p>
