@@ -6,11 +6,7 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&pause=1000&center=true&vCenter=true&multiline=true&width=1200&height=100&lines=Hello+this+is++Cheuk+Shu+Ho%2C+Welcome+to+my+Github+page;I+am+a+passionate+developer+from+Hong+Kong)](https://git.io/typing-svg)
 
----
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=2246250622&label=Profile%20views&color=0e75b6&style=flat" alt="2246250622" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=2246250622" alt="2246250622" /></a> </p>
 
 ---
 ### 👦 About Me
