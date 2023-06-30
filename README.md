@@ -32,8 +32,8 @@
 <img width="400" src="https://github-readme-stats.vercel.app/api?username=2246250622&count_private=true&show_icons=true&theme=react" />  <img width="425" src="https://streak-stats.demolab.com/?user=2246250622&theme=react" />
 <img width="830" src="https://github-readme-activity-graph.vercel.app/graph?username=2246250622&bg_color=21232a&color=a8eeff&line=61dafb&point=f0fcff&area=true&hide_border=false" />
 <a href="https://github.com/2246250622/github-stats">
-<img src="https://2246250622.github.io/github-stats.github.io/generated/overview.svg#gh-dark-mode-only" />
-<img src="https://2246250622.github.io/github-stats.github.io/generated/languages.svg#gh-dark-mode-only" />
+<!--<img src="https://2246250622.github.io/github-stats.github.io/generated/overview.svg#gh-dark-mode-only" />-->
+<!--<img src="https://2246250622.github.io/github-stats.github.io/generated/languages.svg#gh-dark-mode-only" />-->
 </a>
 
 <img width="400" src="https://github-readme-stats.vercel.app/api/top-langs/?username=2246250622&layout=compact&langs_count=10&theme=react" />  
