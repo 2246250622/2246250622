@@ -15,11 +15,18 @@
 ---
 ### 👦 About Me
 
+- 👨‍💻 I'm a CS graduate at Hong Kong Baptist University
+
+- 🔭 I’m currently working on **HKSAR Government**
+
+- 🌱 I’m currently developing and learning **JavaScript, Node.js, and other full-stack tools.**
+
 - 📫 How to reach me **a23200710104@gmail.com**
 
-- ⚡ Fun fact **I think I am funny**
+- ⚡ Fun fact **My Git-Hub codes = 30% Me + 30% StackOverflow + 40% Google**
 
-<h3 align="left">Connect with me:</h3>
+---
+### 🔗 Social info
 <p align="left">
 <a href="https://fb.com/cheuk shu ho" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="cheuk shu ho" height="30" width="40" /></a>
 <a href="https://instagram.com/babycheuk_xd" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="babycheuk_xd" height="30" width="40" /></a>
