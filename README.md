@@ -56,7 +56,8 @@
 
 ---
 
-### 🐍 Contribution snake
+### 🏆 Profile Trophy
+[![trophy](https://github-profile-trophy.vercel.app/?username=2246250622&theme=onedark)](https://github.com/2246250622/github-profile-trophy)
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://2246250622.github.io/github-snake.github.io/github-contribution-grid-snake-dark.svg">
