@@ -1,6 +1,10 @@
+<div id="header" align="center">
+  <img src=https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif width="200"/>
+</div>
+
 <h1 align="center">Hi 👋, I'm Cheuk Shu Ho</h1>
 <h3 align="center">A passionate developer from Hong Kong</h3>
-<img align="right" alt="Coding" width="400" src="https://cdn.discordapp.com/attachments/818449335024484382/1124291117874155602/023AXM3Ql4ljGw6-b1EZC4ogv7vPPwSsNQvdrtTa9IU.gif">
+<div id="header" align="center"><img align="right" alt="Coding" width="400" src="https://cdn.discordapp.com/attachments/818449335024484382/1124291117874155602/023AXM3Ql4ljGw6-b1EZC4ogv7vPPwSsNQvdrtTa9IU.gif"/></div>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=2246250622&label=Profile%20views&color=0e75b6&style=flat" alt="2246250622" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=2246250622" alt="2246250622" /></a> </p>
