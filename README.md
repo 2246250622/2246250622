@@ -8,6 +8,7 @@
 
 
 
+
 ---
 ### 👦 About Me
 
@@ -32,9 +33,9 @@
 <!--<img src="https://2246250622.github.io/github-stats.github.io/generated/languages.svg#gh-dark-mode-only" />-->
 </a>
 
-<img width="400" src="https://github-readme-stats.vercel.app/api/top-langs/?username=2246250622&layout=compact&langs_count=10&theme=react" /> 
+<img width="400" src="https://github-readme-stats.vercel.app/api/top-langs/?username=2246250622&layout=pie&langs_count=10&theme=react" /> 
 
-
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=pie)](https://github.com/anuraghazra/github-readme-stats)
 
 
 
