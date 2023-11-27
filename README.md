@@ -41,7 +41,7 @@
 ---
 ### 🔗 Social info
 <p align="left">
-<a href="https://fb.com/cheuk shu ho" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="cheuk shu ho" height="30" width="40" /></a>
+<a href="https://twitter.com/cheuk_baby" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="cheuk shu ho" height="30" width="40" /></a>
 <a href="https://instagram.com/babycheuk_xd" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="babycheuk_xd" height="30" width="40" /></a>
 <a href="https://discord.gg/EfsmNYH" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="EfsmNYH" height="30" width="40" /></a>
 </p>
