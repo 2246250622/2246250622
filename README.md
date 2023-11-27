@@ -33,7 +33,7 @@
 <!--<img src="https://2246250622.github.io/github-stats.github.io/generated/languages.svg#gh-dark-mode-only" />-->
 </a>
 
-<img width="825" height="300" src="https://github-readme-stats.vercel.app/api/top-langs/?username=2246250622&langs_count=10&theme=react" /> 
+<img width="825" height="300" src="https://github-readme-stats.vercel.app/api/top-langs/?username=2246250622&langs_count=10Z&layout=Compact&theme=react" /> 
 
 
 
