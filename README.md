@@ -13,7 +13,7 @@
 
 - 👨‍💻 I'm a CS graduate at Hong Kong Baptist University
 
-- 🔭 I’m currently working on **HKSAR Government**
+- 🔭 I’m currently working on **...**
 
 - 🌱 I’m currently developing and learning **JavaScript, Node.js, and other full-stack tools.**
 
