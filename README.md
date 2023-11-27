@@ -34,7 +34,7 @@
 
 <img width="400" src="https://github-readme-stats.vercel.app/api/top-langs/?username=2246250622&layout=compact&langs_count=10&theme=react" />  
 <img width="400" src="https://github-readme-stats.vercel.app/api/top-langs/?username=2246250622&layout=compact&langs_count=10&theme=react" />
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=2246250622&layout=compact&langs_count=10&theme=react&repo=github-readme-stats)](https://github.com/anuraghazra/github-readme-stats)
+<img width="400" [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=2246250622&layout=compact&langs_count=10&theme=react&repo=github-readme-stats)](https://github.com/anuraghazra/github-readme-stats) />
 
 
 
