@@ -33,7 +33,7 @@
 </a>
 
 <img width="400" src="https://github-readme-stats.vercel.app/api/top-langs/?username=2246250622&layout=compact&langs_count=10&theme=react" />  
-<img width="400" src="https://github-readme-stats.vercel.app/api/pin/?username=2246250622&layout=compact&langs_count=10&theme=react&repo=2246250622"  />
+<img width="425" src="https://github-readme-stats.vercel.app/api/pin/?username=2246250622&layout=compact&langs_count=10&theme=react&repo=2246250622"  />
 
 
 
