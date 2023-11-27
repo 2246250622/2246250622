@@ -27,11 +27,7 @@
 
 ### 🔥 My Stats 
 <img width="400" src="https://github-readme-stats.vercel.app/api?username=2246250622&count_private=true&show_icons=true&theme=react" />  <img width="425" src="https://streak-stats.demolab.com/?user=2246250622&theme=react" />
-<img width="400" src="https://github-readme-activity-graph.vercel.app/graph?username=2246250622&bg_color=21232a&color=a8eeff&line=61dafb&point=f0fcff&area=true&hide_border=false" />
-<a href="https://github.com/2246250622/github-stats">
-<!--<img src="https://2246250622.github.io/github-stats.github.io/generated/overview.svg#gh-dark-mode-only" />-->
-<!--<img src="https://2246250622.github.io/github-stats.github.io/generated/languages.svg#gh-dark-mode-only" />-->
-</a> <img width="400" src="https://camo.githubusercontent.com/0f26939a16c64e4cc2ddcb7cd3a6e5f2ce3023f0d10a30054b80c75d100dc404/68747470733a2f2f6769746875622d726561646d652d73746174732e76657263656c2e6170702f6170692f746f702d6c616e67732f3f757365726e616d653d32323436323530363232266c61796f75743d636f6d70616374266c616e67735f636f756e743d3130267468656d653d7265616374" /> 
+<img width="600" src="https://github-readme-activity-graph.vercel.app/graph?username=2246250622&bg_color=21232a&color=a8eeff&line=61dafb&point=f0fcff&area=true&hide_border=false" /> <img width="200" src="https://camo.githubusercontent.com/0f26939a16c64e4cc2ddcb7cd3a6e5f2ce3023f0d10a30054b80c75d100dc404/68747470733a2f2f6769746875622d726561646d652d73746174732e76657263656c2e6170702f6170692f746f702d6c616e67732f3f757365726e616d653d32323436323530363232266c61796f75743d636f6d70616374266c616e67735f636f756e743d3130267468656d653d7265616374" /> 
 
 
 
