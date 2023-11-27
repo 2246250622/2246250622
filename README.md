@@ -32,8 +32,8 @@
 <!--<img src="https://2246250622.github.io/github-stats.github.io/generated/languages.svg#gh-dark-mode-only" />-->
 </a>
 
-<img width="400" src="https://github-readme-stats.vercel.app/api/top-langs/?username=2246250622&layout=compact&langs_count=10&theme=react" />  
-<img width="400" src="https://github-stats-alpha.vercel.app/api?username=2246250622&cc=000&tc=fff&ic=fff&bc=000&theme=react" /> 
+<img width="800" src="https://github-readme-stats.vercel.app/api/top-langs/?username=2246250622&layout=compact&langs_count=10&theme=react" />  
+
 
 
 
