@@ -52,6 +52,12 @@
 [![trophy](https://trophy.benkou.dev/?username=2246250622&theme=onedark&no-bg=true)](https://github.com/2246250622)
 
 
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://2246250622.github.io/github-snake.github.io/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://2246250622.github.io/github-snake.github.io/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://2246250622.github.io/github-snake.github.io/github-contribution-grid-snake.svg">
+</picture>
+
 
 ### 👀 Visitor Info
 
