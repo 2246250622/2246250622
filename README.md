@@ -111,7 +111,6 @@
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dreamweaver/dreamweaver-original.svg" width="40" height="40" alt="dreamweaver"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" width="40" height="40" alt="github"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jquery/jquery-original.svg" width="40" height="40" alt="jquery"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/axios/axios-original.svg" width="40" height="40" alt="axios"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/netbeans/netbeans-original.svg" width="40" height="40" alt="netbeans"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postman/postman-original.svg" width="40" height="40" alt="postman"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/swagger/swagger-original.svg" width="40" height="40" alt="swagger"/>
