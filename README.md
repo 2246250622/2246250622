@@ -96,6 +96,7 @@
   <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" width="40" height="40" alt="figma"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" width="40" height="40" alt="photoshop"/>
   <img src="https://cdn.simpleicons.org/html5/E34F26" width="40" height="40" alt="html5-canvas"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/canva/canva-original.svg" width="40" height="40" alt="canva"/>
 </p>
 ---
 
