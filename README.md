@@ -62,8 +62,8 @@
 
 **Web3 & Blockchain**
 <p align="left">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/solana/solana-original.svg" width="40" height="40" alt="solana"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ethereum/ethereum-original.svg" width="40" height="40" alt="ethereum"/>
+  <img src="https://raw.githubusercontent.com/Ileriayo/markdown-badges/master/icons/solana.svg" width="40" height="40" alt="solana"/>
+  <img src="https://raw.githubusercontent.com/Ileriayo/markdown-badges/master/icons/ethereum.svg" width="40" height="40" alt="ethereum"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/rust/rust-original.svg" width="40" height="40" alt="rust"/>
 </p>
 
