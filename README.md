@@ -18,7 +18,7 @@
 
 - 🌱 I’m currently developing and learning **JavaScript, Node.js, and other full-stack tools.**
 
-- 📫 How to reach me **a23200710104@gmail.com**
+- 📫 How to reach me **cheukshuho@gmail.com**
 
 - ⚡ Fun fact **My Git-Hub codes = 30% Me + 30% StackOverflow + 30% Google + 10% AI**
 
