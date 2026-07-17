@@ -49,66 +49,104 @@
 ---
 ### 🛠️ Languages and Tools
 
+
+
 **Database & Infrastructure**
+
 <p align="left">
-  <img src="https://cdn.simpleicons.org/mariadb/003545" width="40" height="40" alt="mariadb"/>
-  <img src="https://cdn.simpleicons.org/postgresql/4169E1" width="40" height="40" alt="postgresql"/>
-  <img src="https://cdn.simpleicons.org/mysql/4479A1" width="40" height="40" alt="mysql"/>
-  <img src="https://cdn.simpleicons.org/oracle/F80000" width="40" height="40" alt="oracle"/>
-  <img src="https://cdn.simpleicons.org/docker/2496ED" width="40" height="40" alt="docker"/>
-  <img src="https://cdn.simpleicons.org/linux/FCC624" width="40" height="40" alt="linux"/>
-  <img src="https://cdn.simpleicons.org/ubuntu/E95420" width="40" height="40" alt="ubuntu"/>
-  <img src="https://cdn.simpleicons.org/heroku/430098" width="40" height="40" alt="heroku"/>
-  <img src="https://cdn.simpleicons.org/putty/A1A1A1" width="40" height="40" alt="putty"/>
-  <img src="https://cdn.simpleicons.org/filezilla/BF0000" width="40" height="40" alt="filezilla"/>
+
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mariadb/mariadb-original-wordmark.svg" width="40" height="40" alt="mariadb"/>
+
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" width="40" height="40" alt="postgresql"/>
+
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" width="40" height="40" alt="mysql"/>
+
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" width="40" height="40" alt="oracle"/>
+
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" width="40" height="40" alt="docker"/>
+
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" width="40" height="40" alt="linux"/>
+
+  <img src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" width="40" height="40" alt="heroku"/>
+
 </p>
+
+
 
 **Web3 & Blockchain**
+
 <p align="left">
+
+  <!-- Ethereum -->
+
   <img src="https://cdn.simpleicons.org/ethereum/3C3C3D" width="40" height="40" alt="ethereum"/>
+
+  <!-- Solana -->
+
   <img src="https://cdn.simpleicons.org/solana/14F195" width="40" height="40" alt="solana"/>
-</p>
+
+ </p>
+
+
 
 **AI & Data Science**
+
 <p align="left">
-  <img src="https://cdn.simpleicons.org/python/3776AB" width="40" height="40" alt="python"/>
-  <img src="https://cdn.simpleicons.org/pandas/150458" width="40" height="40" alt="pandas"/>
-  <img src="https://cdn.simpleicons.org/pytorch/EE4C2C" width="40" height="40" alt="pytorch"/>
-  <img src="https://cdn.simpleicons.org/tensorflow/FF6F00" width="40" height="40" alt="tensorflow"/>
-  <img src="https://cdn.simpleicons.org/scikitlearn/F7931E" width="40" height="40" alt="scikit-learn"/>
-  <img src="https://cdn.simpleicons.org/opencv/5C3EE8" width="40" height="40" alt="opencv"/>
-  <img src="https://cdn.simpleicons.org/matlab/0076A8" width="40" height="40" alt="matlab"/>
-  <img src="https://cdn.simpleicons.org/kaggle/20BEFF" width="40" height="40" alt="kaggle"/>
-  <img src="https://cdn.simpleicons.org/selenium/43B02A" width="40" height="40" alt="selenium"/>
+
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40" height="40" alt="python"/>
+
+  <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" width="40" height="40" alt="pandas"/>
+
+  <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" width="40" height="40" alt="pytorch"/>
+
+  <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" width="40" height="40" alt="tensorflow"/>
+
+  <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" width="40" height="40" alt="scikit-learn"/>
+
+  <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" width="40" height="40" alt="opencv"/>
+
+  <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" width="40" height="40" alt="matlab"/>
+
+  <img src="https://raw.githubusercontent.com/detain/svg-logos/780f25886640cef088af994181646db2f6b1a3f8/svg/selenium-logo.svg" width="40" height="40" alt="selenium"/>
+
 </p>
 
+
+
 **Web Development & Tools**
+
 <p align="left">
-  <img src="https://cdn.simpleicons.org/javascript/F7DF1E" width="40" height="40" alt="javascript"/>
-  <img src="https://cdn.simpleicons.org/html5/E34F26" width="40" height="40" alt="html5"/>
-  <img src="https://cdn.simpleicons.org/css3/1572B6" width="40" height="40" alt="css3"/>
-  <img src="https://cdn.simpleicons.org/vuejs/4FC08D" width="40" height="40" alt="vuejs"/>
-  <img src="https://cdn.simpleicons.org/jquery/0769AD" width="40" height="40" alt="jquery"/>
-  <img src="https://cdn.simpleicons.org/bootstrap/7952B3" width="40" height="40" alt="bootstrap"/>
-  <img src="https://cdn.simpleicons.org/axios/5A29E4" width="40" height="40" alt="axios"/>
-  <img src="https://cdn.simpleicons.org/json/000000" width="40" height="40" alt="json"/>
-  <img src="https://cdn.simpleicons.org/swagger/85EA2D" width="40" height="40" alt="swagger"/>
-  <img src="https://cdn.simpleicons.org/discordjs/5865F2" width="40" height="40" alt="discordjs"/>
-  <img src="https://cdn.simpleicons.org/java/007396" width="40" height="40" alt="java"/>
-  <img src="https://cdn.simpleicons.org/csharp/239120" width="40" height="40" alt="csharp"/>
-  <img src="https://cdn.simpleicons.org/php/777BB4" width="40" height="40" alt="php"/>
-  <img src="https://cdn.simpleicons.org/android/3DDC84" width="40" height="40" alt="android"/>
-  <img src="https://cdn.simpleicons.org/visualstudiocode/007ACC" width="40" height="40" alt="vscode"/>
-  <img src="https://cdn.simpleicons.org/adobe-dreamweaver/FF61F6" width="40" height="40" alt="dreamweaver"/>
-  <img src="https://cdn.simpleicons.org/netbeans/1B6ACE" width="40" height="40" alt="netbeans"/>
-  <img src="https://cdn.simpleicons.org/git/F05032" width="40" height="40" alt="git"/>
-  <img src="https://cdn.simpleicons.org/github/181717" width="40" height="40" alt="github"/>
-  <img src="https://cdn.simpleicons.org/powershell/5391FE" width="40" height="40" alt="powershell"/>
-  <img src="https://cdn.simpleicons.org/gnubash/4EAA25" width="40" height="40" alt="bash"/>
-  <img src="https://cdn.simpleicons.org/canva/00C4CC" width="40" height="40" alt="canva"/>
-  <img src="https://cdn.simpleicons.org/figma/F24E1E" width="40" height="40" alt="figma"/>
-  <img src="https://cdn.simpleicons.org/adobephotoshop/31A8FF" width="40" height="40" alt="photoshop"/>
-  <img src="https://cdn.simpleicons.org/postman/FF6C37" width="40" height="40" alt="postman"/>
+
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="40" height="40" alt="javascript"/>
+
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" width="40" height="40" alt="html5"/>
+
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" width="40" height="40" alt="css3"/>
+
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" width="40" height="40" alt="vuejs"/>
+
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" width="40" height="40" alt="bootstrap"/>
+
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="40" height="40" alt="java"/>
+
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" width="40" height="40" alt="csharp"/>
+
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" width="40" height="40" alt="php"/>
+
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" width="40" height="40" alt="android"/>
+
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" width="40" height="40" alt="vscode"/>
+
+  <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" width="40" height="40" alt="git"/>
+
+  <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" width="40" height="40" alt="figma"/>
+
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" width="40" height="40" alt="photoshop"/>
+
+  <img src="https://cdn.simpleicons.org/html5/E34F26" width="40" height="40" alt="html5-canvas"/>
+
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/canva/canva-original.svg" width="40" height="40" alt="canva"/>
+
 </p>
 ---
 
