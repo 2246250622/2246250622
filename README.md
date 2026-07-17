@@ -20,7 +20,7 @@
 
 - 📫 How to reach me **a23200710104@gmail.com**
 
-- ⚡ Fun fact **My Git-Hub codes = 30% Me + 30% StackOverflow + 40% Google**
+- ⚡ Fun fact **My Git-Hub codes = 30% Me + 30% StackOverflow + 30% Google + 10% AI**
 
 
 --- 
