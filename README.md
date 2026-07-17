@@ -26,10 +26,10 @@
 --- 
 
 ### 🔥 My Stats 
-<div style="display: flex; gap: 10px; width: 100%;">
-  <img style="flex: 1; width: 50%;" src="https://stats-github-readme.vercel.app/api?username=2246250622&count_private=true&show_icons=true&theme=react" />
-  <img style="flex: 1; width: 50%;" src="https://streak-stats.demolab.com/?user=2246250622&theme=react" />
-</div>
+<p align="center">
+  <img width="49.5%" src="https://github-readme-stats.vercel.app/api?username=2246250622&count_private=true&show_icons=true&theme=react" />
+  <img width="49.5%" src="https://streak-stats.demolab.com/?user=2246250622&theme=react" />
+</p>
 
 <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=2246250622&bg_color=21232a&color=a8eeff&line=61dafb&point=f0fcff&area=true&hide_border=false" />
 
