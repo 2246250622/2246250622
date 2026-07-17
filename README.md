@@ -49,7 +49,7 @@
 ---
 
 ### 🏆 Profile Trophy
-[![trophy](https://github-profile-trophy.vercel.app/?username=2246250622&theme=onedark)](https://github.com/2246250622/github-profile-trophy)
+[![trophy](https://trophy.benkou.dev/?username=2246250622&theme=onedark&no-bg=true)](https://github.com/2246250622)
 
 
 <picture>
