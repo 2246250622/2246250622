@@ -27,7 +27,7 @@
 
 ### 🔥 My Stats 
 <p align="center">
-  <img width="49.5%" src="https://github-readme-stats.vercel.app/api?username=2246250622&count_private=true&show_icons=true&theme=react" />
+  <img width="49.5%" src="https://stats-github-readme.vercel.app/api?username=2246250622&count_private=true&show_icons=true&theme=react" />
   <img width="49.5%" src="https://streak-stats.demolab.com/?user=2246250622&theme=react" />
 </p>
 
