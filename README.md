@@ -1,9 +1,9 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00f0ff,100:ff00ff&height=200&section=header&text=JASON%20%E5%82%91%E6%A3%AE&fontSize=70&fontColor=ffffff&animation=twinkling&fontAlignY=35" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00f0ff,100:ff00ff&height=180&section=header&text=JASON%20%E5%82%91%E6%A3%AE&fontSize=60&fontColor=ffffff&animation=twinkling&fontAlignY=35" />
 </div>
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=22&pause=1000&color=00F0FF&center=true&vCenter=true&multiline=true&width=800&height=100&lines=Initializing+system...;Loading+modules%3A+DBA+%7C+Web3+%7C+AI;Status%3A+ONLINE+%7C+Hong+Kong+Node;Ready+to+build." alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=22&pause=1000&color=00F0FF&center=true&vCenter=true&multiline=true&width=700&height=90&lines=Initializing+system...;Loading+modules%3A+DBA+%7C+Web3+%7C+AI;Status%3A+ONLINE+%7C+Hong+Kong+Node;Ready+to+build." alt="Typing SVG" />
 </div>
 
 <p align="center">
@@ -31,7 +31,7 @@ Web3 / AI / Automation Builder from Hong Kong
 
 ---
 
-### `> stats --live`
+### `> stats`
 
 <p align="center">
   <img width="48%" src="https://github-readme-stats.vercel.app/api?username=2246250622&count_private=true&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00f0ff&icon_color=ff00ff&text_color=c9d1d9" />
@@ -39,12 +39,12 @@ Web3 / AI / Automation Builder from Hong Kong
 </p>
 
 <p align="center">
-  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=2246250622&theme=tokyo-night&bg_color=0d1117&color=00f0ff&line=ff00ff&point=c9d1d9&area=true&hide_border=true" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=2246250622&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00f0ff&text_color=c9d1d9" />
 </p>
 
 ---
 
-### `> connect --nodes`
+### `> connect`
 
 <p align="center">
   <a href="https://x.com/cheuk_baby"><img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white&labelColor=0d1117" /></a>
@@ -55,7 +55,7 @@ Web3 / AI / Automation Builder from Hong Kong
 
 ---
 
-### `> skills --list`
+### `> skills`
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=python,js,docker,linux,mysql,bash,git,ubuntu,powershell,selenium&theme=dark&perline=10" />
@@ -78,20 +78,6 @@ Web3 / AI / Automation Builder from Hong Kong
 
 ---
 
-### `> trophy`
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=2246250622&theme=tokyonight&no-bg=true&no-frame=true&column=7&margin-w=4" />
-</p>
-
-### `> snake --animate`
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/2246250622/2246250622/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/2246250622/2246250622/output/github-contribution-grid-snake.svg">
-  <img alt="contribution snake" src="https://raw.githubusercontent.com/2246250622/2246250622/output/github-contribution-grid-snake.svg">
-</picture>
-
 ### `> visitors`
 
 <p align="center">
@@ -99,5 +85,5 @@ Web3 / AI / Automation Builder from Hong Kong
 </p>
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00f0ff,100:ff00ff&height=100&section=footer" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00f0ff,100:ff00ff&height=80&section=footer" />
 </div>
