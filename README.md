@@ -4,11 +4,7 @@
 
 <h1 align="center">Hi 👋, I'm Jason傑森 🇭🇰|🛠️</h1>
 
-<p align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=1000&color=61DAFB&center=true&vCenter=true&multiline=true&width=1000&height=100&lines=Hello+this+is+Jason傑森+%F0%9F%87%AD%F0%9F%87%B0;Welcome+to+my+Github+page!;DBA+%26+Web3+builder+from+Hong+Kong;Currently+exploring+AI+%2B+Blockchain" alt="Typing SVG">
-  </a>
-</p>
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&pause=1000&center=true&vCenter=true&multiline=true&width=1200&height=100&lines=Hello+this+is+Jason傑森%2C+Welcome+to+my+Github+page;I+am+a+passionate+developer+from+Hong+Kong)](https://git.io/typing-svg)
 
 ---
 
@@ -17,7 +13,7 @@
 - 👨‍💻 CS graduate from **Hong Kong Baptist University**
 - 🔭 Currently working as **Database Administrator** (MariaDB/MySQL Galera, HAProxy, PMM, Linux)
 - 🌱 Learning & building in **Web3, AI, DeFi, and automation tools**
-- 📬 Reach me: **cheukshuho@gmail.com** | Telegram: **@changlu82**
+- 📬 Reach me: **cheukshuho@gmail.com** | Telegram: **@babycheuk**
 - ⚡ Fun fact: My code = 30% Me + 30% StackOverflow + 30% Google + 10% AI 🤖
 
 ---
