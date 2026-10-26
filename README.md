@@ -26,7 +26,7 @@
 </p>
 
 <p align="center">
-  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=2246250622&bg_color=21232a&color=a8eeff&line=61dafb&point=f0fcff&area=true&hide_border=true" />
+  <img width="100%" src="https://github-readme-activity-graph-delta.vercel.app/graph?username=2246250622&bg_color=21232a&color=a8eeff&line=61dafb&point=f0fcff&area=true&hide_border=true" />
 </p>
 
 ---
@@ -37,7 +37,7 @@
   <a href="https://x.com/cheuk_baby"><img src="https://img.shields.io/badge/X-%23000000.svg?style=for-the-badge&logo=X&logoColor=white" /></a>
   <a href="https://instagram.com/babycheuk_xd"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white" /></a>
   <a href="https://discord.gg/EfsmNYH"><img src="https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white" /></a>
-  <a href="https://t.me/changlu82"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" /></a>
+  <a href="https://t.me/babycheuk"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" /></a>
   <a href="mailto:cheukshuho@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 </p>
 
@@ -97,7 +97,7 @@
 ### 🏆 Profile Trophy
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=2246250622&theme=onedark&no-bg=true&no-frame=true&column=7" alt="trophy"/>
+  <img src="https://trophy.ryglcloud.net/?username=2246250622&theme=onedark&no-bg=true&no-frame=true&column=7" alt="trophy"/>
 </p>
 
 ### 🐍 Contribution Snake
