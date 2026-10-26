@@ -20,26 +20,41 @@
 
 ### 🔥 My Stats
 
-<!-- Fixed height keeps side-by-side cards aligned (different native aspect ratios). -->
-<p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=2246250622&count_private=true&show_icons=true&theme=react&hide_border=true" alt="github stats"/>
-  <img height="165" src="https://streak-stats.demolab.com/?user=2246250622&theme=react&hide_border=true" alt="github streak"/>
-</p>
+<!-- Full-width table; only same-canvas cards are paired so heights match. -->
+<table width="100%">
+  <tr>
+    <td width="50%" valign="top">
+      <img width="100%" src="https://github-readme-stats.vercel.app/api?username=2246250622&count_private=true&show_icons=true&theme=react&hide_border=true" alt="github stats"/>
+    </td>
+    <td width="50%" valign="top">
+      <img width="100%" src="https://streak-stats.demolab.com/?user=2246250622&theme=react&hide_border=true" alt="github streak"/>
+    </td>
+  </tr>
+</table>
 
 <p align="center">
   <img width="100%" src="https://github-readme-activity-graph-delta.vercel.app/graph?username=2246250622&bg_color=21232a&color=a8eeff&line=61dafb&point=f0fcff&area=true&hide_border=true" alt="activity graph"/>
 </p>
 
-<!-- Same canvas size cards paired together; fixed height for alignment with top-langs. -->
-<p align="center">
-  <img height="160" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=2246250622&theme=react" alt="summary stats"/>
-  <img height="160" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=2246250622&theme=react&utcOffset=8" alt="productive time"/>
-</p>
-
-<p align="center">
-  <img height="160" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=2246250622&theme=react" alt="repos per language"/>
-  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=2246250622&layout=compact&theme=react&hide_border=true&langs_count=8" alt="top languages"/>
-</p>
+<!-- All summary cards are 340×200 — perfect side-by-side match at full width. -->
+<table width="100%">
+  <tr>
+    <td width="50%" valign="top">
+      <img width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=2246250622&theme=react" alt="summary stats"/>
+    </td>
+    <td width="50%" valign="top">
+      <img width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=2246250622&theme=react&utcOffset=8" alt="productive time"/>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <img width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=2246250622&theme=react" alt="repos per language"/>
+    </td>
+    <td width="50%" valign="top">
+      <img width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=2246250622&theme=react" alt="most commit language"/>
+    </td>
+  </tr>
+</table>
 
 ---
 
@@ -123,11 +138,18 @@
 
 ### 🐍 Contribution Snake
 
+<p align="center">
+  <b>Last 12 months · Oct 2025 → Oct 2026</b><br/>
+  <sub>Month labels on the animation: Oct '25 · … · Jan '26 · … · Oct</sub>
+</p>
+
+<p align="center">
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/2246250622/2246250622/output/github-contribution-grid-snake-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/2246250622/2246250622/output/github-contribution-grid-snake.svg">
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/2246250622/2246250622/output/github-contribution-grid-snake.svg">
+  <img width="100%" alt="GitHub contribution snake · Oct 2025 to Oct 2026" src="https://raw.githubusercontent.com/2246250622/2246250622/output/github-contribution-grid-snake.svg">
 </picture>
+</p>
 
 ### 👀 Visitor Info
 
