@@ -4,7 +4,7 @@
 
 <h1 align="center">Hi 👋, I'm Jason傑森 🇭🇰|🛠️</h1>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&pause=1000&center=true&vCenter=true&multiline=true&width=800&height=100&lines=Hello+this+is+Jason傑森%2C+Welcome+to+my+Github+page;I+am+a+passionate+developer+from+Hong+Kong)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&center=true&vCenter=true&multiline=true&width=860&height=80&lines=Hi%2C+I%27m+Jason傑森+from+Hong+Kong+%F0%9F%87%AD%F0%9F%87%B0;DBA+%C2%B7+Web3+%C2%B7+AI+%C2%B7+Automation)](https://git.io/typing-svg)
 
 ---
 
@@ -163,19 +163,10 @@
 
 
 
-
-### 🎧 Spotify
-
-<p align="center">
-  <a href="https://spotify-github-profile.kittinanx.com/api/view?uid=31svd3eixv56ehf3ohyeghtp4ldu&redirect=true">
-    <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=31svd3eixv56ehf3ohyeghtp4ldu&cover_image=true&theme=default&show_offline=true&background_color=121212&interchange=false&profanity=true&hide_remaster=true&bar_color=53b14f&bar_color_cover=false" alt="Spotify now playing"/>
-  </a>
-</p>
-
 ### 🧊 3D Contribution Graph
 
 <p align="center">
-  <img width="100%" src="https://raw.githubusercontent.com/2246250622/2246250622/main/profile-3d-contrib/profile-night-rainbow.svg" alt="GitHub 3D contribution graph"/>
+  <img width="100%" src="./profile-3d-contrib/profile-night-rainbow.svg" alt="GitHub 3D contribution graph"/>
 </p>
 
 ### 👀 Visitor Info
