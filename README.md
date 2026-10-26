@@ -1,89 +1,119 @@
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00f0ff,100:ff00ff&height=180&section=header&text=JASON%20%E5%82%91%E6%A3%AE&fontSize=60&fontColor=ffffff&animation=twinkling&fontAlignY=35" />
+<div id="header" align="center">
+  <img src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" width="200"/>
 </div>
 
-<div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=22&pause=1000&color=00F0FF&center=true&vCenter=true&multiline=true&width=700&height=90&lines=Initializing+system...;Loading+modules%3A+DBA+%7C+Web3+%7C+AI;Status%3A+ONLINE+%7C+Hong+Kong+Node;Ready+to+build." alt="Typing SVG" />
-</div>
+<h1 align="center">Hi 👋, I'm Jason傑森 🇭🇰|🛠️</h1>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/STATUS-ONLINE-00ff9f?style=flat-square&labelColor=0d1117" />
-  <img src="https://img.shields.io/badge/LOCATION-HONG_KONG-00f0ff?style=flat-square&labelColor=0d1117" />
-  <img src="https://img.shields.io/badge/MODE-BUILDER-ff00ff?style=flat-square&labelColor=0d1117" />
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=1000&color=61DAFB&center=true&vCenter=true&multiline=true&width=1000&height=100&lines=Hello+this+is+Jason傑森+%F0%9F%87%AD%F0%9F%87%B0;Welcome+to+my+Github+page!;DBA+%26+Web3+builder+from+Hong+Kong;Currently+exploring+AI+%2B+Blockchain" alt="Typing SVG">
+  </a>
 </p>
 
 ---
 
-### `> whoami`
+### 👦 About Me
 
-```bash
-┌─[jason@gcis]─[~]
-└──╼ $ cat profile.txt
-
-DBA @ GCIS Infrastructure
-MariaDB Galera | HAProxy | PMM | Linux Sysadmin
-Web3 / AI / Automation Builder from Hong Kong
-```
-
-- **Stack**: MariaDB/MySQL Galera clusters, HAProxy, PMM, TrueSight, Oracle DBAAS, Linux (RHEL)
-- **Focus**: Production reliability + Web3/AI tooling + content
-- **Contact**: `cheukshuho@gmail.com` | Telegram `@changlu82`
+- 👨‍💻 CS graduate from **Hong Kong Baptist University**
+- 🔭 Currently working as **Database Administrator** (MariaDB/MySQL Galera, HAProxy, PMM, Linux)
+- 🌱 Learning & building in **Web3, AI, DeFi, and automation tools**
+- 📬 Reach me: **cheukshuho@gmail.com** | Telegram: **@changlu82**
+- ⚡ Fun fact: My code = 30% Me + 30% StackOverflow + 30% Google + 10% AI 🤖
 
 ---
 
-### `> stats`
+### 🔥 My Stats
 
 <p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=2246250622&count_private=true&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00f0ff&icon_color=ff00ff&text_color=c9d1d9" />
-  <img width="48%" src="https://streak-stats.demolab.com/?user=2246250622&theme=tokyonight&hide_border=true&background=0D1117&stroke=00f0ff&ring=ff00ff&fire=ff6b6b&currStreakLabel=00f0ff" />
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=2246250622&count_private=true&show_icons=true&theme=react&hide_border=true" />
+  <img width="49%" src="https://streak-stats.demolab.com/?user=2246250622&theme=react&hide_border=true" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=2246250622&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00f0ff&text_color=c9d1d9" />
+  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=2246250622&bg_color=21232a&color=a8eeff&line=61dafb&point=f0fcff&area=true&hide_border=true" />
 </p>
 
 ---
 
-### `> connect`
+### 🔗 Social
 
 <p align="center">
-  <a href="https://x.com/cheuk_baby"><img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white&labelColor=0d1117" /></a>
-  <a href="https://t.me/changlu82"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white&labelColor=0d1117" /></a>
-  <a href="https://discord.gg/EfsmNYH"><img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white&labelColor=0d1117" /></a>
-  <a href="mailto:cheukshuho@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0d1117" /></a>
+  <a href="https://x.com/cheuk_baby"><img src="https://img.shields.io/badge/X-%23000000.svg?style=for-the-badge&logo=X&logoColor=white" /></a>
+  <a href="https://instagram.com/babycheuk_xd"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white" /></a>
+  <a href="https://discord.gg/EfsmNYH"><img src="https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white" /></a>
+  <a href="https://t.me/changlu82"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" /></a>
+  <a href="mailto:cheukshuho@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 </p>
 
 ---
 
-### `> skills`
+### 🛠️ Languages and Tools
 
+**Database & Infrastructure**
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,js,docker,linux,mysql,bash,git,ubuntu,powershell,selenium&theme=dark&perline=10" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mariadb/mariadb-original-wordmark.svg" width="40" height="40" alt="mariadb"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" width="40" height="40" alt="postgresql"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" width="40" height="40" alt="mysql"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" width="40" height="40" alt="oracle"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" width="40" height="40" alt="docker"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" width="40" height="40" alt="linux"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bash/bash-original.svg" width="40" height="40" alt="bash"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ubuntu/ubuntu-plain.svg" width="40" height="40" alt="ubuntu"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/powershell/powershell-original.svg" width="40" height="40" alt="powershell"/>
 </p>
 
-**Infrastructure**
+**Web3 & Blockchain**
 <p align="center">
-  <img src="https://cdn.simpleicons.org/mariadb/003545" width="36" height="36" />
-  <img src="https://cdn.simpleicons.org/oracle/F80000" width="36" height="36" />
-  <img src="https://cdn.simpleicons.org/docker/2496ED" width="36" height="36" />
-  <img src="https://cdn.simpleicons.org/linux/FCC624" width="36" height="36" />
-  <img src="https://cdn.simpleicons.org/ubuntu/E95420" width="36" height="36" />
+  <img src="https://cdn.simpleicons.org/ethereum/3C3C3D" width="40" height="40" alt="ethereum"/>
+  <img src="https://cdn.simpleicons.org/solana/14F195" width="40" height="40" alt="solana"/>
 </p>
 
-**Web3**
+**AI & Data Science**
 <p align="center">
-  <img src="https://cdn.simpleicons.org/ethereum/627EEA" width="36" height="36" />
-  <img src="https://cdn.simpleicons.org/solana/14F195" width="36" height="36" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40" height="40" alt="python"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" width="40" height="40" alt="pandas"/>
+  <img src="https://cdn.simpleicons.org/pytorch/EE4C2C" width="40" height="40" alt="pytorch"/>
+  <img src="https://cdn.simpleicons.org/tensorflow/FF6F00" width="40" height="40" alt="tensorflow"/>
+  <img src="https://cdn.simpleicons.org/numpy/013243" width="40" height="40" alt="numpy"/>
+  <img src="https://cdn.simpleicons.org/opencv/5C3EE8" width="40" height="40" alt="opencv"/>
+  <img src="https://cdn.simpleicons.org/kaggle/20BEFF" width="40" height="40" alt="kaggle"/>
+  <img src="https://cdn.simpleicons.org/selenium/43B02A" width="40" height="40" alt="selenium"/>
+</p>
+
+**Web Development & Tools**
+<p align="center">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="40" height="40" alt="javascript"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" width="40" height="40" alt="html5"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" width="40" height="40" alt="css3"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original.svg" width="40" height="40" alt="vuejs"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="40" height="40" alt="java"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" width="40" height="40" alt="csharp"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" width="40" height="40" alt="php"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" width="40" height="40" alt="vscode"/>
+  <img src="https://cdn.simpleicons.org/git/F05032" width="40" height="40" alt="git"/>
+  <img src="https://cdn.simpleicons.org/figma/F24E1E" width="40" height="40" alt="figma"/>
+  <img src="https://cdn.simpleicons.org/github/181717" width="40" height="40" alt="github"/>
+  <img src="https://cdn.simpleicons.org/postman/FF6C37" width="40" height="40" alt="postman"/>
 </p>
 
 ---
 
-### `> visitors`
+### 🏆 Profile Trophy
 
 <p align="center">
-  <img src="https://u8views.com/api/v1/github/profiles/72436714/views/day-week-month-total-count.svg" />
+  <img src="https://github-profile-trophy.vercel.app/?username=2246250622&theme=onedark&no-bg=true&no-frame=true&column=7" alt="trophy"/>
 </p>
 
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00f0ff,100:ff00ff&height=80&section=footer" />
-</div>
+### 🐍 Contribution Snake
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/2246250622/2246250622/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/2246250622/2246250622/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/2246250622/2246250622/output/github-contribution-grid-snake.svg">
+</picture>
+
+### 👀 Visitor Info
+
+<p align="center">
+  <img src="https://u8views.com/api/v1/github/profiles/72436714/views/day-week-month-total-count.svg" alt="views"/>
+</p>
