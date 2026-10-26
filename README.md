@@ -20,24 +20,25 @@
 
 ### 🔥 My Stats
 
+<!-- Fixed height keeps side-by-side cards aligned (different native aspect ratios). -->
 <p align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=2246250622&count_private=true&show_icons=true&theme=react&hide_border=true" />
-  <img width="49%" src="https://streak-stats.demolab.com/?user=2246250622&theme=react&hide_border=true" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=2246250622&count_private=true&show_icons=true&theme=react&hide_border=true" alt="github stats"/>
+  <img height="165" src="https://streak-stats.demolab.com/?user=2246250622&theme=react&hide_border=true" alt="github streak"/>
 </p>
 
 <p align="center">
-  <img width="100%" src="https://github-readme-activity-graph-delta.vercel.app/graph?username=2246250622&bg_color=21232a&color=a8eeff&line=61dafb&point=f0fcff&area=true&hide_border=true" />
+  <img width="100%" src="https://github-readme-activity-graph-delta.vercel.app/graph?username=2246250622&bg_color=21232a&color=a8eeff&line=61dafb&point=f0fcff&area=true&hide_border=true" alt="activity graph"/>
 </p>
 
-
+<!-- Same canvas size cards paired together; fixed height for alignment with top-langs. -->
 <p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=2246250622&layout=compact&theme=react&hide_border=true&langs_count=8" alt="top languages"/>
-  <img width="48%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=2246250622&theme=react" alt="repos per language"/>
+  <img height="160" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=2246250622&theme=react" alt="summary stats"/>
+  <img height="160" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=2246250622&theme=react&utcOffset=8" alt="productive time"/>
 </p>
 
 <p align="center">
-  <img width="48%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=2246250622&theme=react" alt="summary stats"/>
-  <img width="48%" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=2246250622&theme=react&utcOffset=8" alt="productive time"/>
+  <img height="160" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=2246250622&theme=react" alt="repos per language"/>
+  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=2246250622&layout=compact&theme=react&hide_border=true&langs_count=8" alt="top languages"/>
 </p>
 
 ---
