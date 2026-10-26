@@ -71,16 +71,14 @@
 
 ### 🛠️ Languages and Tools
 
-
-**Skill Icons**
+<p align="center"><b>Skill Icons</b></p>
 <p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=mysql,postgresql,mariadb,docker,linux,bash,python,js,html,css,vue,java,cs,php,git,github,vscode,postman,pytorch,tensorflow&perline=10" alt="skills"/>
   </a>
 </p>
 
-
-**Database & Infrastructure**
+<p align="center"><b>Database & Infrastructure</b></p>
 <p align="center">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mariadb/mariadb-original-wordmark.svg" width="40" height="40" alt="mariadb"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" width="40" height="40" alt="postgresql"/>
@@ -89,29 +87,29 @@
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" width="40" height="40" alt="docker"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" width="40" height="40" alt="linux"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bash/bash-original.svg" width="40" height="40" alt="bash"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ubuntu/ubuntu-plain.svg" width="40" height="40" alt="ubuntu"/>
+  <img src="https://cdn.simpleicons.org/ubuntu/E95420" width="40" height="40" alt="ubuntu"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/powershell/powershell-original.svg" width="40" height="40" alt="powershell"/>
 </p>
 
-**Web3 & Blockchain**
+<p align="center"><b>Web3 & Blockchain</b></p>
 <p align="center">
-  <img src="https://cdn.simpleicons.org/ethereum/3C3C3D" width="40" height="40" alt="ethereum"/>
+  <img src="https://cdn.simpleicons.org/ethereum/627EEA" width="40" height="40" alt="ethereum"/>
   <img src="https://cdn.simpleicons.org/solana/14F195" width="40" height="40" alt="solana"/>
 </p>
 
-**AI & Data Science**
+<p align="center"><b>AI & Data Science</b></p>
 <p align="center">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40" height="40" alt="python"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" width="40" height="40" alt="pandas"/>
   <img src="https://cdn.simpleicons.org/pytorch/EE4C2C" width="40" height="40" alt="pytorch"/>
   <img src="https://cdn.simpleicons.org/tensorflow/FF6F00" width="40" height="40" alt="tensorflow"/>
-  <img src="https://cdn.simpleicons.org/numpy/013243" width="40" height="40" alt="numpy"/>
+  <img src="https://cdn.simpleicons.org/numpy/4DABCF" width="40" height="40" alt="numpy"/>
   <img src="https://cdn.simpleicons.org/opencv/5C3EE8" width="40" height="40" alt="opencv"/>
   <img src="https://cdn.simpleicons.org/kaggle/20BEFF" width="40" height="40" alt="kaggle"/>
   <img src="https://cdn.simpleicons.org/selenium/43B02A" width="40" height="40" alt="selenium"/>
 </p>
 
-**Web Development & Tools**
+<p align="center"><b>Web Development & Tools</b></p>
 <p align="center">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="40" height="40" alt="javascript"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" width="40" height="40" alt="html5"/>
@@ -123,7 +121,7 @@
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" width="40" height="40" alt="vscode"/>
   <img src="https://cdn.simpleicons.org/git/F05032" width="40" height="40" alt="git"/>
   <img src="https://cdn.simpleicons.org/figma/F24E1E" width="40" height="40" alt="figma"/>
-  <img src="https://cdn.simpleicons.org/github/181717" width="40" height="40" alt="github"/>
+  <img src="https://cdn.simpleicons.org/github/ffffff" width="40" height="40" alt="github"/>
   <img src="https://cdn.simpleicons.org/postman/FF6C37" width="40" height="40" alt="postman"/>
 </p>
 
@@ -131,11 +129,11 @@
 
 ### 🏆 Profile Trophy
 
+<!-- Main row excludes Issues/PR/Reviews so the highlight row below is not duplicated. -->
 <p align="center">
-  <img src="https://trophy.ryglcloud.net/?username=2246250622&theme=onedark&no-bg=true&no-frame=true&column=7" alt="GitHub trophies"/>
+  <img src="https://trophy.ryglcloud.net/?username=2246250622&theme=onedark&no-bg=true&no-frame=true&column=7&title=-Issues,-PullRequest,-Reviews" alt="GitHub trophies"/>
 </p>
 
-<!-- Highlight Issues / PullRequest / Reviews (same style as your screenshot). Reviews stays Unknown until you review PRs. -->
 <p align="center">
   <img src="https://trophy.ryglcloud.net/?username=2246250622&theme=onedark&no-bg=true&no-frame=true&column=3&title=Issues,PullRequest,Reviews" alt="Issues, Pull Request, and Reviews trophies"/>
 </p>
