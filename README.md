@@ -29,6 +29,17 @@
   <img width="100%" src="https://github-readme-activity-graph-delta.vercel.app/graph?username=2246250622&bg_color=21232a&color=a8eeff&line=61dafb&point=f0fcff&area=true&hide_border=true" />
 </p>
 
+
+<p align="center">
+  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=2246250622&layout=compact&theme=react&hide_border=true&langs_count=8" alt="top languages"/>
+  <img width="48%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=2246250622&theme=react" alt="repos per language"/>
+</p>
+
+<p align="center">
+  <img width="48%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=2246250622&theme=react" alt="summary stats"/>
+  <img width="48%" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=2246250622&theme=react&utcOffset=8" alt="productive time"/>
+</p>
+
 ---
 
 ### 🔗 Social
@@ -44,6 +55,15 @@
 ---
 
 ### 🛠️ Languages and Tools
+
+
+**Skill Icons**
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=mysql,postgresql,mariadb,docker,linux,bash,python,js,html,css,vue,java,cs,php,git,github,vscode,postman,pytorch,tensorflow&perline=10" alt="skills"/>
+  </a>
+</p>
+
 
 **Database & Infrastructure**
 <p align="center">
