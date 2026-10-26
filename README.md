@@ -116,7 +116,12 @@
 ### 🏆 Profile Trophy
 
 <p align="center">
-  <img src="https://trophy.ryglcloud.net/?username=2246250622&theme=onedark&no-bg=true&no-frame=true&column=7" alt="trophy"/>
+  <img src="https://trophy.ryglcloud.net/?username=2246250622&theme=onedark&no-bg=true&no-frame=true&column=7" alt="GitHub trophies"/>
+</p>
+
+<!-- Highlight Issues / PullRequest / Reviews (same style as your screenshot). Reviews stays Unknown until you review PRs. -->
+<p align="center">
+  <img src="https://trophy.ryglcloud.net/?username=2246250622&theme=onedark&no-bg=true&no-frame=true&column=3&title=Issues,PullRequest,Reviews" alt="Issues, Pull Request, and Reviews trophies"/>
 </p>
 
 ### 🐍 Contribution Snake
