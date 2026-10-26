@@ -68,7 +68,7 @@
 ### 🔗 Social
 
 <p align="center">
-  <a href="https://x.com/cheuk_baby"><img src="https://img.shields.io/badge/X-%23000000.svg?style=for-the-badge&logo=X&logoColor=white" /></a>
+  <a href="https://x.com/cheuk_baby"><img src="https://img.shields.io/badge/X-%23E7E9EA.svg?style=for-the-badge&logo=X&logoColor=black" /></a>
   <a href="https://instagram.com/babycheuk_xd"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white" /></a>
   <a href="https://discord.gg/EfsmNYH"><img src="https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white" /></a>
   <a href="https://t.me/babycheuk"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" /></a>
@@ -101,7 +101,7 @@
 
 <p align="center"><b>Web3 & Blockchain</b></p>
 <p align="center">
-  <img src="https://cdn.simpleicons.org/ethereum/627EEA" width="40" height="40" alt="ethereum"/>
+  <img src="https://cdn.simpleicons.org/ethereum/AAB4FF" width="40" height="40" alt="ethereum"/>
   <img src="https://cdn.simpleicons.org/solana/14F195" width="40" height="40" alt="solana"/>
 </p>
 
@@ -143,7 +143,7 @@
 </p>
 
 <p align="center">
-  <img src="https://trophy.ryglcloud.net/?username=2246250622&theme=onedark&no-bg=true&no-frame=true&column=3&title=Issues,PullRequest,Reviews" alt="Issues, Pull Request, and Reviews trophies"/>
+  <img src="https://trophy.ryglcloud.net/?username=2246250622&theme=onedark&no-bg=true&no-frame=true&column=3&margin-w=15&margin-h=15&title=Issues,PullRequest,Reviews" width="770" alt="Issues, Pull Request, and Reviews trophies"/>
 </p>
 
 ### 🐍 Contribution Snake
