@@ -163,10 +163,19 @@
 
 
 
+
+### 🎧 Spotify
+
+<p align="center">
+  <a href="https://spotify-github-profile.kittinanx.com/api/view?uid=31svd3eixv56ehf3ohyeghtp4ldu&redirect=true">
+    <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=31svd3eixv56ehf3ohyeghtp4ldu&cover_image=true&theme=default&show_offline=true&background_color=121212&interchange=false&profanity=true&hide_remaster=true&bar_color=53b14f&bar_color_cover=false" alt="Spotify now playing"/>
+  </a>
+</p>
+
 ### 🧊 3D Contribution Graph
 
 <p align="center">
-  <img width="100%" src="./profile-3d-contrib/profile-night-rainbow.svg" alt="GitHub 3D contribution graph"/>
+  <img width="100%" src="https://raw.githubusercontent.com/2246250622/2246250622/main/profile-3d-contrib/profile-night-rainbow.svg" alt="GitHub 3D contribution graph"/>
 </p>
 
 ### 👀 Visitor Info
