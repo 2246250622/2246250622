@@ -36,21 +36,21 @@
   <img width="100%" src="https://github-readme-activity-graph-delta.vercel.app/graph?username=2246250622&bg_color=21232a&color=a8eeff&line=61dafb&point=f0fcff&area=true&hide_border=true&custom_title=Contributions%20·%20last%2031%20days%20(Sep–Oct%202026)&days=31" alt="activity graph last 31 days Sep–Oct 2026"/>
 </p>
 
-<table align="center" width="100%">
+<table align="center">
   <tr>
-    <td width="50%" align="center" valign="top">
-      <img width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=2246250622&theme=react" alt="summary stats"/>
+    <td align="center" valign="top">
+      <img width="400" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=2246250622&theme=react" alt="summary stats"/>
     </td>
-    <td width="50%" align="center" valign="top">
-      <img width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=2246250622&theme=react&utcOffset=8" alt="productive time"/>
+    <td align="center" valign="top">
+      <img width="400" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=2246250622&theme=react&utcOffset=8" alt="productive time"/>
     </td>
   </tr>
   <tr>
-    <td width="50%" align="center" valign="top">
-      <img width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=2246250622&theme=react" alt="repos per language"/>
+    <td align="center" valign="top">
+      <img width="400" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=2246250622&theme=react" alt="repos per language"/>
     </td>
-    <td width="50%" align="center" valign="top">
-      <img width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=2246250622&theme=react" alt="most commit language"/>
+    <td align="center" valign="top">
+      <img width="400" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=2246250622&theme=react" alt="most commit language"/>
     </td>
   </tr>
 </table>
