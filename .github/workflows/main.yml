@@ -4,9 +4,6 @@ on:
   schedule:
     - cron: "0 */6 * * *"
   workflow_dispatch:
-  push:
-    branches:
-      - main
 
 jobs:
   build:
@@ -16,13 +13,13 @@ jobs:
     steps:
       - uses: actions/checkout@v4
 
-      # React cyan palette (keeps blue snake; default github-dark was overwriting it to green)
+      # React cyan — use %23 so YAML does not treat # as a comment
       - uses: Platane/snk/svg-only@v3
         with:
           github_user_name: 2246250622
           outputs: |
-            dist/github-contribution-grid-snake.svg?color_snake=#61dafb&color_dots=#282c34,#61dafb33,#61dafb66,#61dafb99,#61dafb&color_empty=#282c34&color_background=#20232a
-            dist/github-contribution-grid-snake-dark.svg?color_snake=#61dafb&color_dots=#161b22,#0b3a4a,#1a6f8a,#3aa8c9,#61dafb&color_empty=#161b22&color_background=#0d1117
+            dist/github-contribution-grid-snake.svg?color_snake=%2361dafb&color_dots=%23282c34,%2361dafb33,%2361dafb66,%2361dafb99,%2361dafb&color_empty=%23282c34&color_background=%2320232a
+            dist/github-contribution-grid-snake-dark.svg?color_snake=%2361dafb&color_dots=%23161b22,%230b3a4a,%231a6f8a,%233aa8c9,%2361dafb&color_empty=%23161b22&color_background=%230d1117
 
       - name: Push to output branch
         uses: crazy-max/ghaction-github-pages@v4

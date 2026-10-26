@@ -155,9 +155,9 @@
 
 <p align="center">
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/2246250622/2246250622/output/github-contribution-grid-snake-dark.svg?v=blue2">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/2246250622/2246250622/output/github-contribution-grid-snake.svg?v=blue2">
-  <img width="100%" alt="GitHub contribution snake · Oct 2025 to Oct 2026" src="https://raw.githubusercontent.com/2246250622/2246250622/output/github-contribution-grid-snake.svg?v=blue2">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/2246250622/2246250622/output/github-contribution-grid-snake-dark.svg?v=blue3">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/2246250622/2246250622/output/github-contribution-grid-snake.svg?v=blue3">
+  <img width="100%" alt="GitHub contribution snake · Oct 2025 to Oct 2026" src="https://raw.githubusercontent.com/2246250622/2246250622/output/github-contribution-grid-snake.svg?v=blue3">
 </picture>
 </p>
 
