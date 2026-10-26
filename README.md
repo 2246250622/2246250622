@@ -18,6 +18,14 @@
 
 ---
 
+
+### 💬 Daily Quote
+
+<p align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" alt="daily quote"/>
+</p>
+
+---
 ### 🔥 My Stats
 
 <!-- Table keeps 2 columns side-by-side on the narrow profile column (plain <p> + fixed px wraps). -->
@@ -151,6 +159,14 @@
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/2246250622/2246250622/output/github-contribution-grid-snake.svg">
   <img width="100%" alt="GitHub contribution snake · Oct 2025 to Oct 2026" src="https://raw.githubusercontent.com/2246250622/2246250622/output/github-contribution-grid-snake.svg">
 </picture>
+</p>
+
+
+
+### 🧊 3D Contribution Graph
+
+<p align="center">
+  <img width="100%" src="./profile-3d-contrib/profile-night-rainbow.svg" alt="GitHub 3D contribution graph"/>
 </p>
 
 ### 👀 Visitor Info
