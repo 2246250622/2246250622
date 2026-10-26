@@ -4,7 +4,7 @@
 
 <h1 align="center">Hi 👋, I'm Jason傑森 🇭🇰|🛠️</h1>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&pause=1000&center=true&vCenter=true&multiline=true&width=1200&height=100&lines=Hello+this+is+Jason傑森%2C+Welcome+to+my+Github+page;I+am+a+passionate+developer+from+Hong+Kong)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&pause=1000&center=true&vCenter=true&multiline=true&width=800&height=100&lines=Hello+this+is+Jason傑森%2C+Welcome+to+my+Github+page;I+am+a+passionate+developer+from+Hong+Kong)](https://git.io/typing-svg)
 
 ---
 
@@ -20,24 +20,40 @@
 
 ### 🔥 My Stats
 
-<p align="center">
-  <img width="430" height="180" src="https://github-readme-stats.vercel.app/api?username=2246250622&count_private=true&show_icons=true&theme=react&hide_border=true" alt="github stats"/>
-  <img width="430" height="180" src="https://streak-stats.demolab.com/?user=2246250622&theme=react&hide_border=true" alt="github streak"/>
-</p>
+<!-- Table keeps 2 columns side-by-side on the narrow profile column (plain <p> + fixed px wraps). -->
+<table align="center" width="100%">
+  <tr>
+    <td width="50%" align="center" valign="top">
+      <img width="100%" src="https://github-readme-stats.vercel.app/api?username=2246250622&count_private=true&show_icons=true&theme=react&hide_border=true" alt="github stats"/>
+    </td>
+    <td width="50%" align="center" valign="top">
+      <img width="100%" src="https://streak-stats.demolab.com/?user=2246250622&theme=react&hide_border=true" alt="github streak"/>
+    </td>
+  </tr>
+</table>
 
 <p align="center">
-  <img width="860" src="https://github-readme-activity-graph-delta.vercel.app/graph?username=2246250622&bg_color=21232a&color=a8eeff&line=61dafb&point=f0fcff&area=true&hide_border=true&custom_title=Contributions%20·%20last%2031%20days%20(Sep–Oct%202026)&days=31" alt="activity graph last 31 days Sep–Oct 2026"/>
+  <img width="100%" src="https://github-readme-activity-graph-delta.vercel.app/graph?username=2246250622&bg_color=21232a&color=a8eeff&line=61dafb&point=f0fcff&area=true&hide_border=true&custom_title=Contributions%20·%20last%2031%20days%20(Sep–Oct%202026)&days=31" alt="activity graph last 31 days Sep–Oct 2026"/>
 </p>
 
-<!-- Force 340×200 cards up to ~430px wide so the row matches the graph above. -->
-<p align="center">
-  <img width="430" height="253" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=2246250622&theme=react" alt="summary stats"/>
-  <img width="430" height="253" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=2246250622&theme=react&utcOffset=8" alt="productive time"/>
-</p>
-<p align="center">
-  <img width="430" height="253" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=2246250622&theme=react" alt="repos per language"/>
-  <img width="430" height="253" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=2246250622&theme=react" alt="most commit language"/>
-</p>
+<table align="center" width="100%">
+  <tr>
+    <td width="50%" align="center" valign="top">
+      <img width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=2246250622&theme=react" alt="summary stats"/>
+    </td>
+    <td width="50%" align="center" valign="top">
+      <img width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=2246250622&theme=react&utcOffset=8" alt="productive time"/>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" align="center" valign="top">
+      <img width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=2246250622&theme=react" alt="repos per language"/>
+    </td>
+    <td width="50%" align="center" valign="top">
+      <img width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=2246250622&theme=react" alt="most commit language"/>
+    </td>
+  </tr>
+</table>
 
 ---
 
