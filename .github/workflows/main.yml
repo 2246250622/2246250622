@@ -16,12 +16,13 @@ jobs:
     steps:
       - uses: actions/checkout@v4
 
+      # React cyan palette (keeps blue snake; default github-dark was overwriting it to green)
       - uses: Platane/snk/svg-only@v3
         with:
           github_user_name: 2246250622
           outputs: |
-            dist/github-contribution-grid-snake.svg
-            dist/github-contribution-grid-snake-dark.svg?palette=github-dark
+            dist/github-contribution-grid-snake.svg?color_snake=#61dafb&color_dots=#282c34,#61dafb33,#61dafb66,#61dafb99,#61dafb&color_empty=#282c34&color_background=#20232a
+            dist/github-contribution-grid-snake-dark.svg?color_snake=#61dafb&color_dots=#161b22,#0b3a4a,#1a6f8a,#3aa8c9,#61dafb&color_empty=#161b22&color_background=#0d1117
 
       - name: Push to output branch
         uses: crazy-max/ghaction-github-pages@v4

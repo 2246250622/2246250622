@@ -155,18 +155,27 @@
 
 <p align="center">
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/2246250622/2246250622/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/2246250622/2246250622/output/github-contribution-grid-snake.svg">
-  <img width="100%" alt="GitHub contribution snake · Oct 2025 to Oct 2026" src="https://raw.githubusercontent.com/2246250622/2246250622/output/github-contribution-grid-snake.svg">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/2246250622/2246250622/output/github-contribution-grid-snake-dark.svg?v=blue2">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/2246250622/2246250622/output/github-contribution-grid-snake.svg?v=blue2">
+  <img width="100%" alt="GitHub contribution snake · Oct 2025 to Oct 2026" src="https://raw.githubusercontent.com/2246250622/2246250622/output/github-contribution-grid-snake.svg?v=blue2">
 </picture>
 </p>
 
 
 
+
+### 🎧 Spotify
+
+<p align="center">
+  <a href="https://spotify-github-profile.kittinanx.com/api/view?uid=31svd3eixv56ehf3ohyeghtp4ldu&redirect=true">
+    <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=31svd3eixv56ehf3ohyeghtp4ldu&cover_image=true&theme=default&show_offline=true&background_color=121212&interchange=false&profanity=true&hide_remaster=true&bar_color=53b14f&bar_color_cover=false" alt="Spotify now playing"/>
+  </a>
+</p>
+
 ### 🧊 3D Contribution Graph
 
 <p align="center">
-  <img width="100%" src="./profile-3d-contrib/profile-night-rainbow.svg" alt="GitHub 3D contribution graph"/>
+  <img width="100%" src="https://raw.githubusercontent.com/2246250622/2246250622/main/profile-3d-contrib/profile-night-rainbow.svg" alt="GitHub 3D contribution graph"/>
 </p>
 
 ### 👀 Visitor Info
